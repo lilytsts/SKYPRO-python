@@ -8,7 +8,6 @@
 # drinks = ['пиво','чай','кофе','водка']
 # print(drinks[1:3])
 
-
 # terms = ['MVP','Маржинальность','Гипотеза','Деплой','ROI','IDE','Python']
 # #term_en = terms[0:1] + terms[4:]
 # terms_en = [terms[0]] + terms[4:]
